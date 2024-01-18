@@ -1,7 +1,6 @@
 # React Starter Pack
 
-To use this template click `Use this template`
-
+cv project using react without ts redux
 ### Available Scripts
 
 `Deploy` - available to deploy your application to gh-pages
