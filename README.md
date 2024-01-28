@@ -7,3 +7,5 @@ To use this template click Use this template
 
 `SCSS Preprocessor` - available to write your styles with modern style language
 to do readme file profile for page
+
+cv with video of project or something else
